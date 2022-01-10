@@ -18,4 +18,4 @@ git clone git@github.com:cradleapps/rebasing-workshop.git
 
 ## Goals
 
-By the end of this workshop, your should feel comfortable cleaning up content conflicts, interactive rebase, and force pushing.
+By the end of this workshop, you should feel comfortable resolving content conflicts, interactive rebasing, and force pushing.
